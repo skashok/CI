@@ -172,7 +172,8 @@ static NSString *const TopPaidAppsFeed =
     // so that the UI is not blocked
     ParseOperation *parser = [[ParseOperation alloc] initWithData:self.appListData];
     
-    parser.errorHandler = ^(NSError *parseError) {
+    parser.errorHandler = ^(NSError *parseError)
+    {
         dispatch_async(dispatch_get_main_queue(), ^{
             [self handleError:parseError];
         });
