@@ -61,6 +61,8 @@
 
 @implementation IconDownloader
 
+#pragma mark Continuous Integration TeamCity test.
+
 #pragma mark
 
 - (void)startDownload

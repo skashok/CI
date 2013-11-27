@@ -53,6 +53,8 @@
 
 @interface IconDownloader : NSObject
 
+#pragma mark Continuous Integration TeamCity test
+
 @property (nonatomic, strong) AppRecord *appRecord;
 @property (nonatomic, copy) void (^completionHandler)(void);
 
