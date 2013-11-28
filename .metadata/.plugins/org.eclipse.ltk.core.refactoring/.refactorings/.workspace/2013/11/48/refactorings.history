@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Customizelistview&apos;" deleteContents="false" description="Delete resource &apos;Customizelistview&apos;" element1="/Customizelistview" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1385637440037"/>&#x0A;<refactoring comment="Delete resource &apos;MTCRichGraphicsActivity&apos;" deleteContents="true" description="Delete resource &apos;MTCRichGraphicsActivity&apos;" element1="/MTCRichGraphicsActivity" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1385637618380"/>
+</session>
