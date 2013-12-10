@@ -24,7 +24,7 @@ public class MorseFlashActivity extends Activity {
 
         MorseFlashApplication application = (MorseFlashApplication) getApplication();
         String message = application.message;
-
+//CI Testing
         Handler myHandler = new Handler();
       //  long[] morseCode = MorseCodeConverter.pattern(message);
         long total = 0;
