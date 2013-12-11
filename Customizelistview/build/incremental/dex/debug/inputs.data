@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1386782594000 373 3b8c7ef84753d83d2cd340bdc0a045118fc3bbd6 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$attr.class
+1386782594000 591 152ad41e72156673d7e278415806e532cfc1e5c3 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$string.class
+1386782594000 274 234f628327f20587b1987debf34951cb10be1ea5 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/CustomListViewAdapter$1.class
+1386782594000 469 6786c53b4695a4af6c49a3c00ff43629b1714c93 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$layout.class
+1386782594000 1268 1805c2261f15ed25d1b2bd4040c1138890b86a4d /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/RowItem.class
+1386782594000 464 d23d0ec916f5735c22ac3bf0ba95fbfc34c47320 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$style.class
+1386782594000 3419 1752fcab0d5bfcbcb607b30a32ad06baa216c26e /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/ImageTextListViewActivity.class
+1386782594000 1076 b8fef4bb34531a8b166eb102f3bc57194ffc5103 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/CustomListViewAdapter$ViewHolder.class
+1386782594000 494 ebbaa8949b6a0d4dee298dcaed32d730a92e7fc1 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$dimen.class
+1386782594000 539 9442d9fb1d2783bc5a02c7caf3d00fbc761243e4 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$id.class
+1386782594000 2694 19ec7323e68cd3c4ae9c5f336aa13932f4e45701 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/CustomListViewAdapter.class
+1386782594000 787 bf3d8afd5ffbd36bd517c353cb1997b4071e7342 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R.class
+1386781056000 556198 4a6be13368bb64c5a0b0460632d228a1a915f58f /Users/Ed/dev/sts/CI/Customizelistview/libs/android-support-v4.jar
+1386782594000 421 aa2f33694fd75c8edd1145457ca477e844e383ba /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$menu.class
+1386782594000 563 80880ace83a33c9030e770190e53ee2cc43c7cbd /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/R$drawable.class
+1386782594000 488 cfadc141d87e97386ffd15d968aea44beebe13c9 /Users/Ed/dev/sts/CI/Customizelistview/build/classes/debug/com/example/customizelistview/BuildConfig.class
