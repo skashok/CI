@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/Ed/dev/sts/CI/Customizelistview/assets" />
+        <source path="/Users/edwardelliott/Dev/CI/Customizelistview/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/Ed/dev/sts/CI/Customizelistview/build-types/release/assets" />
+        <source path="/Users/edwardelliott/Dev/CI/Customizelistview/build-types/release/assets" />
     </dataSet>
 
 </merger>

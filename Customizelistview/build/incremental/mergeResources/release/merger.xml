@@ -2,84 +2,84 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/Ed/dev/sts/CI/Customizelistview/res" >
+        <source path="/Users/edwardelliott/Dev/CI/Customizelistview/res" >
             <file
                 name="banana"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable/banana.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable/banana.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="mixed"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable/mixed.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable/mixed.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="orange"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable/orange.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable/orange.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="strawberry"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable/strawberry.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable/strawberry.jpg"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="banana"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-hdpi/banana.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-hdpi/banana.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="mixed"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-hdpi/mixed.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-hdpi/mixed.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="orange"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-hdpi/orange.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-hdpi/orange.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="strawberry"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-hdpi/strawberry.jpg"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-hdpi/strawberry.jpg"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/layout/activity_main.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="list_item"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/layout/list_item.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/layout/list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/menu/main.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values/dimens.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -87,7 +87,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values/strings.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values/strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
@@ -103,7 +103,7 @@
                 </string>
             </file>
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values/styles.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -125,13 +125,13 @@
                 </style>
             </file>
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values-sw720dp-land/dimens.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values-v11/styles.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -142,7 +142,7 @@
                 </style>
             </file>
             <file
-                path="/Users/Ed/dev/sts/CI/Customizelistview/res/values-v14/styles.xml"
+                path="/Users/edwardelliott/Dev/CI/Customizelistview/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -153,10 +153,10 @@
                 </style>
             </file>
         </source>
-        <source path="/Users/Ed/dev/sts/CI/Customizelistview/build/res/rs/release" />
+        <source path="/Users/edwardelliott/Dev/CI/Customizelistview/build/res/rs/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/Ed/dev/sts/CI/Customizelistview/build-types/release/res" />
+        <source path="/Users/edwardelliott/Dev/CI/Customizelistview/build-types/release/res" />
     </dataSet>
 
 </merger>
