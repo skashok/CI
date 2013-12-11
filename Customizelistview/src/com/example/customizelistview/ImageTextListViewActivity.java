@@ -37,7 +37,7 @@ public class ImageTextListViewActivity extends Activity implements
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
- 
+ //CI changes
         rowItems = new ArrayList<RowItem>();
         for (int i = 0; i < titles.length; i++) {
             RowItem item = new RowItem(images[i], titles[i], descriptions[i]);
