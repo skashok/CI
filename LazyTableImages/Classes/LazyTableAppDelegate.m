@@ -78,6 +78,8 @@ static NSString *const TopPaidAppsFeed =
 // -------------------------------------------------------------------------------
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    //JIRA Integration test with Teamcity CARJACK Project
+    //CARJACK-10
     NSURLRequest *urlRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:TopPaidAppsFeed]];
     self.appListFeedConnection = [[NSURLConnection alloc] initWithRequest:urlRequest delegate:self];
     
