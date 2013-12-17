@@ -16,11 +16,11 @@ public class FirstTest
 	public void testInstantiation()
 	{
 		System.setSecurityManager(null);
-		Activity activity = Robolectric.buildActivity();
+		Activity activity = new Activity();
 
 		TextView tv = new TextView(activity);
 		tv.setText("e84");
 
-		assertEquals("e85", tv.getText());
+		assertEquals("e84", tv.getText());
 	}
 }
