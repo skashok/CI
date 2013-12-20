@@ -39,6 +39,10 @@ android {
             proguardFile 'proguard-rules.txt'
         }
     }
+
+    // tell Android studio that the instrumentTest source set is located in the unit test source set
+    sourceSets {
+        instrumentTest.setRoot('src/test')
 }
 
 sourceSets {
@@ -51,12 +55,28 @@ sourceSets {
 configurations {
     unitTestCompile.extendsFrom runtime
     unitTestRuntime.extendsFrom unitTestCompile
+    instrumentTestCompile.extendsFrom runtime
+    instrumentTestRuntime.extendsFrom instrumentTestCompile
 }
 
 dependencies {
-    unitTestCompile 'junit:junit:4.10'
+    compile 'com.android.support:support-v4:13.0.+'
+
+    // Dependencies for the `testLocal` task, make sure to list all your global dependencies here as well
+    unitTestCompile 'junit:junit:4.11'
+    unitTestCompile 'com.google.android:android:4.1.1.4'
+    unitTestCompile 'com.android.support:support-v4:13.0.+'
     unitTestCompile 'org.robolectric:robolectric:2.1.+'
-    unitTestCompile 'com.squareup:fest-android:1.0.+'}
+    unitTestCompile 'com.squareup:fest-android:1.0.+'
+
+    // Android Studio doesn't recognize the `testLocal` task, so we define the same dependencies as above for instrumentTest
+    // which is Android Studio's test task
+    instrumentTestCompile 'junit:junit:4.11'
+    instrumentTestCompile 'com.google.android:android:4.1.1.4'
+    instrumentTestCompile 'com.android.support:support-v4:13.0.+'
+    instrumentTestCompile 'org.robolectric:robolectric:2.1.+'
+    instrumentTestCompile 'com.squareup:fest-android:1.0.+'
+}
 
 task unitTest(type: Test, dependsOn: assemble) {
     testClassesDir = sourceSets.unitTest.output.classesDir
@@ -72,3 +92,4 @@ task unitTest(type: Test, dependsOn: assemble) {
     classpath = sourceSets.unitTest.runtimeClasspath
 }
 
+}
