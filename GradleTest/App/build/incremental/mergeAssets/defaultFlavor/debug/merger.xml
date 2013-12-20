@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Ed/dev/sts/CI/GradleTest/App/src/main/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavor" >
+        <source path="/Users/Ed/dev/sts/CI/GradleTest/App/src/defaultFlavor/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Ed/dev/sts/CI/GradleTest/App/src/debug/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavorDebug" >
+        <source path="/Users/Ed/dev/sts/CI/GradleTest/App/src/defaultFlavorDebug/assets" />
+    </dataSet>
+
+</merger>
