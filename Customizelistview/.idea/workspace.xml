@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01221448-00df-45ee-bbd6-01a15c24aa30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/src/test/java/com.element84.starter/FirstTest.java" afterPath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/src/test/java/com.element84.starter/FirstTest.java" />
-    </list>
+    <list default="true" id="01221448-00df-45ee-bbd6-01a15c24aa30" name="Default" comment="" />
     <ignored path="Customizelistview.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -472,7 +470,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="989" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
