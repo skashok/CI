@@ -10,7 +10,6 @@ import android.app.Activity;
 import android.widget.TextView;
 
 @RunWith(RobolectricTestRunner.class)
-@Config(manifest=Config.NONE)
 public class FirstTest {
     @Test
     public void testInstantiation() {
@@ -20,7 +19,7 @@ public class FirstTest {
         TextView tv = new TextView(activity);
         tv.setText("e84");
 
-        assertEquals("e83", tv.getText());
+        assertEquals("e84", tv.getText());
     }
 }
 
