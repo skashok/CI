@@ -24,7 +24,7 @@ public class FirstTest {
         TextView tv = new TextView(activity);
         tv.setText("e84");
 
-        assertEquals("e83", tv.getText());
+        assertEquals("e84", tv.getText());
     }
 }
 
