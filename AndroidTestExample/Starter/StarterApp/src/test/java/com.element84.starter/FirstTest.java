@@ -9,6 +9,11 @@ import org.robolectric.RobolectricTestRunner;
 import android.app.Activity;
 import android.widget.TextView;
 
+import com.element84.starter.MainActivity;
+import com.element84.starter.R;
+
+import dalvik.annotation.TestTargetClass;
+
 @RunWith(RobolectricTestRunner.class)
 public class FirstTest {
     @Test
@@ -21,6 +26,17 @@ public class FirstTest {
 
         assertEquals("e84", tv.getText());
     }
+
+	@Test
+	public void testOnCreateOptionsMenu() {
+		MainActivity mainActivity = new MainActivity();
+
+		Menu menu = new Menu(null);
+
+		mainActivity.onCreateOptionsMenu(menu);
+
+		assertEquals(null, mainActivity);
+	}
 }
 
 
