@@ -26,15 +26,6 @@ public class FirstTest {
 
         assertEquals("e84", tv.getText());
     }
-
-	@Test
-	public void testOnCreateOptionsMenu() {
-		MainActivity mainActivity = new MainActivity();
-
-		mainActivity.onCreateOptionsMenu(null);
-
-		assertEquals(null, mainActivity);
-	}
 }
 
 
