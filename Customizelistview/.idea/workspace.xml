@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01221448-00df-45ee-bbd6-01a15c24aa30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/src/test/java/com.element84.starter/FirstTest.java" afterPath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/src/test/java/com.element84.starter/FirstTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/local.properties" afterPath="$PROJECT_DIR$/../AndroidTestExample/Starter/StarterApp/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Customizelistview.iws" />
     <ignored path=".idea/workspace.xml" />
