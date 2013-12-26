@@ -31,9 +31,7 @@ public class FirstTest {
 	public void testOnCreateOptionsMenu() {
 		MainActivity mainActivity = new MainActivity();
 
-		Menu menu = new Menu(null);
-
-		mainActivity.onCreateOptionsMenu(menu);
+		mainActivity.onCreateOptionsMenu(null);
 
 		assertEquals(null, mainActivity);
 	}
