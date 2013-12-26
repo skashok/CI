@@ -10,6 +10,7 @@ import android.app.Activity;
 import android.widget.TextView;
 
 @RunWith(RobolectricTestRunner.class)
+@Config(manifest=Config.NONE)
 public class FirstTest {
     @Test
     public void testInstantiation() {
