@@ -6,117 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01221448-00df-45ee-bbd6-01a15c24aa30" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/outputFileStates.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/1.6/taskArtifacts/taskArtifacts.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/apk/Customizelistview-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/apk/Customizelistview-release-unsigned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/CustomListViewAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/CustomListViewAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/CustomListViewAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/ImageTextListViewActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/debug/com/example/customizelistview/RowItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/CustomListViewAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/CustomListViewAdapter$ViewHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/CustomListViewAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/ImageTextListViewActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/release/com/example/customizelistview/RowItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/debug/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/release/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/aidl/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/dex/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/dex/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/dex/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/dex/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/release/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeAssets/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/debug/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/debug/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/debug/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/release/inputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/release/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/incremental/mergeResources/release/outputs.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/Customizelistview-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/Customizelistview-debug.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/Customizelistview-release.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/Customizelistview-release.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/manifests/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/manifests/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-hdpi/banana.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-hdpi/mixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-hdpi/orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-hdpi/strawberry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable/banana.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable/mixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable/orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/drawable/strawberry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/layout/list_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/debug/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-hdpi/banana.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-hdpi/mixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-hdpi/orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-hdpi/strawberry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable/banana.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable/mixed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable/orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/drawable/strawberry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/layout/list_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/values-sw720dp-land/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/values-v11/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/values-v14/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/res/all/release/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/source/buildConfig/debug/com/example/customizelistview/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/source/buildConfig/release/com/example/customizelistview/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/source/r/debug/com/example/customizelistview/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/source/r/release/com/example/customizelistview/R.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="01221448-00df-45ee-bbd6-01a15c24aa30" name="Default" comment="" />
     <ignored path="Customizelistview.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -179,10 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ImageTextListViewActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ImageTextListViewActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/customizelistview/ImageTextListViewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="75" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.92657346" vertical-offset="478" max-vertical-offset="1344">
+            <state line="55" column="75" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="1656">
               <folding />
             </state>
           </provider>
@@ -197,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local.properties" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="local.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="168">
+            <state line="1" column="0" selection-start="0" selection-end="48" vertical-scroll-proportion="0.038338657" vertical-offset="0" max-vertical-offset="626">
               <folding />
             </state>
           </provider>
@@ -269,7 +159,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="989" />
+    <option name="height" value="1109" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -297,7 +187,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,6 +207,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -579,7 +469,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="989" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1109" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -588,7 +478,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33872598" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -598,7 +488,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23265742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18908381" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -949,13 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="168">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152" />
@@ -963,7 +846,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/customizelistview/ImageTextListViewActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="75" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.92657346" vertical-offset="478" max-vertical-offset="1344">
+        <state line="55" column="75" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0" vertical-offset="478" max-vertical-offset="1344">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="0" selection-end="48" vertical-scroll-proportion="0.038338657" vertical-offset="0" max-vertical-offset="626">
           <folding />
         </state>
       </provider>
